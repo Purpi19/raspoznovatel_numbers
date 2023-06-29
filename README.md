@@ -1,1 +1,3 @@
-raspoznovatel_numbers
+### Распознавание номеров ж/д вагонов.
+
+pet project
